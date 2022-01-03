@@ -1,0 +1,30 @@
+---
+title: "GRA Plan"
+author: "Susan Vanderplas"
+date: "4/12/2021"
+output: pdf_document
+---
+
+I am planning to hire Alison Kleffner, a statistics PhD student, for this project. Alison is a talented student who is currently working on a project involving spatial statistics and clustering of sea ice data in the Arctic. I believe she has the necessary understanding of both spatial statistics and R programming to support the portion of this project I am involved with - she will definitely have to develop some skills in visualization, UI design, and user interface testing, but that I can teach her. 
+
+Alison is co-advised by myself and a colleague, Yawen Guan, who is an expert in spatial statistics. Though Dr. Guan is not on the grant, I expect we may be able to make use of her skills in spatial modeling if needed during this project. In addition, Alison has some interest in economic optimization, so the fundamental purpose of this project is more in line with her interests than the project she is currently working on as an introduction to research in statistics.
+
+I expect Alison to assist with the following tasks: 
+
+- Design of the shiny prototype for explaining the model output(s) to crop consultants and farmers (explainable machine learning research in statistics)
+
+- Testing of the shiny prototype during the rapid iteration/development cycle phase of the project (UI development)
+
+- Assistance with integrating the predictions from different models to create an ensemble model (ensemble modeling in statistics)
+
+- Collaboration on manuscripts describing the models that are integrated into the different pieces of the final application
+
+- Collaboration on manuscripts describing the user interface design and testing process (UI development, finished products)
+
+- Collaboration on manuscripts describing the explainable machine learning approach, using data from the rapid prototype/testing process to support any conclusions about the success of the approach taken in the application (explainable ML research products)
+
+- Other tasks as assigned - this is a large project, and I'm peripherally involved in many pieces of it (though most of the pieces seem to depend heavily on the initial modeling phase, so it feels like we're in a bit of a holding pattern right now while trial design is ongoing...), so I expect Alison will be involved in many other unforeseen pieces of the project as well. 
+
+I anticipate Alison starting to be funded by the project this fall (or whenever the subcontract actually makes it to UNL), and hopefully at that point we will be in a place where it's possible to offer statistical support to the project. I anticipate either Laila Puntel or Taro Mieno being the outside member on Alison's committee, which should further tie her into the project.
+
+Please contact me if my current plan for Alison's contribution to the project is insufficient - I expect my view of how this project will evolve is somewhat different from how the project will actually evolve, but I know that the user interface and explainable machine learning part of this is critical to the project's success, so I am thoroughly adaptable (and I expect Alison will be too) to the evolving needs of the group.
